@@ -15,7 +15,7 @@ const loggedIN = {firstName : "Rushiraj" , lastName : "Sonawane" , email : "rush
        type="greeting"
        title="Welcome"
        user={loggedIN?.firstName || "Guest"}
-       subtext="Access & Manage your account and transactions effectively"
+       subtext="Access & Manage your account and transactions effectively with Bankasaurus Inadia's no. banking site."
       />
 
       <TotalBallanceBox
